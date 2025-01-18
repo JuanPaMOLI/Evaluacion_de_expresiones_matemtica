@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\bin\Debug\net9.0\ClientTCP.exe
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\bin\Debug\net9.0\ClientTCP.deps.json
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\bin\Debug\net9.0\ClientTCP.runtimeconfig.json
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\bin\Debug\net9.0\ClientTCP.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\bin\Debug\net9.0\ClientTCP.pdb
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\refint\ClientTCP.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.pdb
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ClientTCP.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ClientTCP\obj\Debug\net9.0\ref\ClientTCP.dll

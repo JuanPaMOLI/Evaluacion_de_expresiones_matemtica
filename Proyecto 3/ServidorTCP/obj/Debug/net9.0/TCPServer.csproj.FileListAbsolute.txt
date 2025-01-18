@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\bin\Debug\net9.0\TCPServer.exe
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\bin\Debug\net9.0\TCPServer.deps.json
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\bin\Debug\net9.0\TCPServer.runtimeconfig.json
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\bin\Debug\net9.0\TCPServer.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\bin\Debug\net9.0\TCPServer.pdb
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\refint\TCPServer.dll
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.pdb
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\TCPServer.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Datos I\Proyecto 3\ServidorTCP\obj\Debug\net9.0\ref\TCPServer.dll
