@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 //cd ServidorTCP (darle enter)
 //dotnet run (darle enter)
 //En una consola aparte poner lo mismo pero para el ClientTCP
+
 class TcpServer
 {
     //Puerto por default
@@ -26,6 +27,7 @@ class TcpServer
 
             while (true)
             {
+                Console.WriteLine("Esperando conexiones...");
                 TcpClient client = await server.AcceptTcpClientAsync();
                 Console.WriteLine("Cliente conectado!");
 
@@ -48,6 +50,9 @@ private static async Task HandleClient(TcpClient client)
 {
     using (NetworkStream stream = client.GetStream())
     {
+        string ClienteID = Guid.NewGuid().ToString();
+        Console.WriteLine($"Cliente conectado: {ClienteID}");
+
         byte[] buffer = new byte[1024];
         string mode = "aritmético";
 
@@ -60,6 +65,7 @@ private static async Task HandleClient(TcpClient client)
                 if (bytesRead == 0) break;
 
                 string message = Encoding.UTF8.GetString(buffer, 0, bytesRead).Trim();
+                Console.WriteLine($"[{ClienteID}] Mensaje recibido: {message}");
 
                 //El cliente sale del servidor
                 if (message.Equals("salir", StringComparison.OrdinalIgnoreCase))
